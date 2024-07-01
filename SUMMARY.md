@@ -4,10 +4,7 @@
 
 * [基本概念](README.md)
 * [CDN如何改善网络体验](ji-ben-gai-nian/cdn-ru-he-gai-shan-wang-luo-ti-yan.md)
-
-***
-
-* [新手指引](xin-shou-zhi-yin.md)
+* [新手指引](ji-ben-gai-nian/xin-shou-zhi-yin.md)
 
 ## 快速入门
 
