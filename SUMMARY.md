@@ -11,7 +11,7 @@
 * [注册](kuai-su-ru-men/zhu-ce.md)
 * [登录](kuai-su-ru-men/deng-lu.md)
 * [购买](kuai-su-ru-men/gou-mai.md)
-* [接入](kuai-su-ru-men/jie-ru.md)
+* [接入网站](kuai-su-ru-men/jie-ru-wang-zhan.md)
 * [基本配置](kuai-su-ru-men/ji-ben-pei-zhi.md)
 
 ## 统计分析
