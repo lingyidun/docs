@@ -33,7 +33,7 @@
   * [证书管理](pei-zhi-zhi-nan/ssl-tls/zheng-shu-guan-li.md)
   * [https相关设置](pei-zhi-zhi-nan/ssl-tls/https-xiang-guan-she-zhi.md)
 * [安全](pei-zhi-zhi-nan/an-quan/README.md)
-  * [web应用程序防火墙WAF](pei-zhi-zhi-nan/an-quan/web-ying-yong-cheng-xu-fang-huo-qiang-waf.md)
+  * [Web应用程序防火墙WAF](pei-zhi-zhi-nan/an-quan/web-ying-yong-cheng-xu-fang-huo-qiang-waf.md)
   * [安全设置](pei-zhi-zhi-nan/an-quan/an-quan-she-zhi.md)
 * [速度](pei-zhi-zhi-nan/su-du/README.md)
   * [源站性能监控](pei-zhi-zhi-nan/su-du/yuan-zhan-xing-neng-jian-kong.md)
