@@ -4,7 +4,7 @@
 
 您也可以登录控制台，并在左侧菜单中点击“添加站点”打开此页面
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>添加站点 step1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>添加站点 step1</p></figcaption></figure>
 
 ### 输入需要接入的域名
 
@@ -39,7 +39,7 @@ _假设您的网站访问地址是www.example.com，那么只需要填写example
 
 ### 选择您的付款方式并确认订单信息
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>添加站点 step3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>添加站点 step3</p></figcaption></figure>
 
 选择支付方式，并确认订单信息，确认无误后，点击右下角的提交订单按钮。
 

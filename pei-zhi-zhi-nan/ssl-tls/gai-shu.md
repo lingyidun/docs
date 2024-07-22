@@ -11,7 +11,7 @@
 * 访客的请求以什么方式到达CDN（下图❶位置）
 * CDN的回源请求以什么方式到达源站（下图❷位置）
 
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 接入CDN后，访客的请求会先到达 01dun CDN，CDN根据请求的内容决定是否需要转发到源站。如果该请求需要回源处理，则会根据上述设置选择合适的回源协议。
